@@ -10,7 +10,6 @@ Projects -->
 - [XRPL Code bounty 2](https://github.com/XRPLF/xrpl-dev-portal/pull/1499) : Sample code to use webhooks to monitor a crypto account
 
 About me -->
-- 🔭 I’m currently learning new technologies and freelancing
 - 🌱 I’m currently learning Blockchain & Shopify Apps
 - 👯 I’m looking to collaborate on open source & blockchain projects
 - 💬 Ask me about Web Development
