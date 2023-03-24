@@ -11,6 +11,7 @@ Projects -->
 
 About me -->
 - 🌱 I’m currently learning Blockchain & Shopify Apps
+- 🔭 I’m currently working on [TraceXRPL](https://github.com/ripci504/TraceXRPL)
 - 👯 I’m looking to collaborate on open source & blockchain projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/ripci504)
